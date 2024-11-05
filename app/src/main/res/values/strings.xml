@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">Logout</string>
+    <string-array name="dream_body_options">
+        <item>Lean</item>
+        <item>Muscular</item>
+        <item>Athletic</item>
+        <item>Fit</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
